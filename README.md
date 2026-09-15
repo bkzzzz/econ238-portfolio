@@ -4,4 +4,4 @@ Environmental Economics, Fall 2026, University of Rochester
 
 ## Assignments
 
-Assignment pages will be added here throughout the semester.
+- [Assignment 1: Get Outside - A Short Walk Around Innovation Square](assignment-01-get-outside.html)
