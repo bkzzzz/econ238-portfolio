@@ -1,0 +1,16 @@
+{
+  "source": "EIA/Sargent & Lundy January 2024, Case 9; 2023 USD",
+  "overnightCost": 7861,
+  "fixedOM": 156.2,
+  "variableOM": 2.52,
+  "fuel": 8,
+  "capacityFactor": 0.85,
+  "operatingYears": 40,
+  "dollarYear": 2023,
+  "normalizedCapacityMW": 1000,
+  "capacityFactorSource": "IEA/NEA 2020 harmonized assumption",
+  "fuelSource": "Illustrative assumption, not a measured fuel price",
+  "spending": "Equal installments at each year midpoint",
+  "financing": "Same real rate during construction and operation",
+  "scope": "Simplified plant-level generation cost; excludes taxes, subsidies, inflation, overruns, explicit decommissioning, transmission, and delay opportunity costs"
+}

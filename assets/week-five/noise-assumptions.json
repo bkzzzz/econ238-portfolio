@@ -1,0 +1,14 @@
+{
+  "source": "All local numbers are hypothetical; acoustic relationship based on FHWA guidance",
+  "parkTraffic": 1000,
+  "residentialTraffic": 100,
+  "parkPeople": 80,
+  "backgroundDB": 45,
+  "soundEnergyPerVehicle": 10000,
+  "timeWindowHours": 1,
+  "defaultRedirectPercent": 50,
+  "defaultAttenuationDB": 0,
+  "defaultResidents": 300,
+  "defaultDetourMinutes": 2,
+  "scope": "Representative outdoor receiver levels; no actual local measurements, health estimate, or welfare aggregation"
+}
