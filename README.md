@@ -9,3 +9,4 @@ Environmental Economics, Fall 2026, University of Rochester
 - [Week Four: Fewer Storm Deaths, but Heat Is Still a Risk](week-four.html)
 - [Week Five SHOW ME: The Same Reactor, a Different Financing Bill](week-five-nuclear.html)
 - [Week Five SHOW ME: A Quieter Park. Whose Street Gets Louder?](week-five-noise.html)
+- [Week Seven: Share the Cost of Cleaner Orchard Spraying](week-seven-orchards.html)
