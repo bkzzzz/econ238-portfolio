@@ -1,8 +1,8 @@
 {
-  "snapshot_display": "October 17, 2026, 07:35 PM EDT",
-  "n": 11,
+  "snapshot_display": "October 17, 2026, 07:45 PM EDT",
+  "n": 13,
   "counts": {
-    "YES": 6,
+    "YES": 8,
     "NO": 2,
     "YES, IF...": 3
   },
@@ -11,5 +11,6 @@
     "YES, IF... the independent evaluation is strictly conducted and the 5-season operation proves sustainable.",
     "YES, IF... all terms (matching funds, data sharing, and 5-season commitment) are met with a valid bid."
   ],
-  "note": "Anonymous response records; identities are not independently verified. User reports inviting people to scan the QR code. No test votes were submitted by the assistant."
+  "distribution": "Electronic poster and QR code shared in group chats and directly with friends, as reported by the student.",
+  "note": "Anonymous response records; identities are not independently verified. No test votes were submitted by the assistant."
 }
