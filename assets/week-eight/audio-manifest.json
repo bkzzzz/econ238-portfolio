@@ -1,0 +1,40 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "-8%",
+  "playback_tempo_factor": 1.0401931034482759,
+  "duration_seconds": 1740.048,
+  "narration_words": 4049,
+  "chapters": [
+    {
+      "heading": "1. The promise inside the kitchen",
+      "duration": 298.99832922269076,
+      "start": 0
+    },
+    {
+      "heading": "2. A molecule with no place to disappear",
+      "duration": 349.91964356750736,
+      "start": 298.99832922269076
+    },
+    {
+      "heading": "3. Antarctica changes the argument",
+      "duration": 170.20685814305037,
+      "start": 648.9179727901981
+    },
+    {
+      "heading": "4. Who gets to own a refrigerator?",
+      "duration": 389.39692895218394,
+      "start": 819.1248309332484
+    },
+    {
+      "heading": "5. The advantage of joining, and the problem with replacements",
+      "duration": 340.852096427719,
+      "start": 1208.5217598854324
+    },
+    {
+      "heading": "6. Keeping the sky in the bargain",
+      "duration": 190.6261436868486,
+      "start": 1549.3738563131515
+    }
+  ],
+  "script_sha256": "88f5c964b5e2dd321f6bd2ad126c3ba37c950f7c113709296ddab89cf84b388b"
+}

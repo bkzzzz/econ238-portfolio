@@ -10,3 +10,4 @@ Environmental Economics, Fall 2026, University of Rochester
 - [Week Five SHOW ME: The Same Reactor, a Different Financing Bill](week-five-nuclear.html)
 - [Week Five SHOW ME: A Quieter Park. Whose Street Gets Louder?](week-five-noise.html)
 - [Week Seven: Share the Cost of Cleaner Orchard Spraying](week-seven-orchards.html)
+- [Week Eight: Too Safe to Disappear - The Ozone Bargain (read and listen)](week-eight-ozone.html)

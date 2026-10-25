@@ -1,0 +1,263 @@
+TOO SAFE TO DISAPPEAR
+Refrigerators, the ozone hole, and the bargain that kept the world cool
+
+An environmental economic history lecture prepared for ECON 238 by Bingkun Ye, with ChatGPT research, drafting, and synthetic narration assistance.
+
+DESCRIPTION
+A chemical celebrated for making refrigerators safer became a threat to the atmosphere. Following a kitchen appliance, an Antarctic instrument, and an international bargain, this lecture asks why the world managed to protect the ozone layer without abandoning the comforts that put it at risk.
+
+BEGIN NARRATION
+
+1. The promise inside the kitchen
+
+In 1930, the American chemist Thomas Midgley demonstrated a new refrigerant by breathing in its vapor and using his breath to extinguish a candle. The demonstration advertised two virtues: this substance did not readily poison you, and it did not burn. The National Inventors Hall of Fame records the performance. It belongs to the history of chlorofluorocarbons, the chemicals we came to call CFCs.
+
+Half a century later, scientists would connect these remarkably stable chemicals to the destruction of ozone high above Antarctica. The qualities that made them reassuring inside a kitchen helped make them dangerous outside it. They survived long enough to travel somewhere the original safety demonstration had never tested.
+
+That is our opening puzzle. How did a sensible answer to a real danger become a planetary threat? And how did a world of competing businesses and unequal countries manage to change course while continuing to manufacture refrigerators?
+
+The tempting story begins with a villain who sells poison and ends with governments stopping him. This history asks more of us. The customers wanted something valuable. Scientists had to discover a danger that could not be smelled. Businesses had equipment and customers tied to an existing technology. Countries wanted the protection of a shared atmosphere without paying everyone else's bill.
+
+The remarkable achievement was making those interests compatible enough to act. Understanding that achievement also means understanding what it did not solve.
+
+There is a useful narrative lesson in Arnold Kling's lecture, AIDS and the Blue Dress. He places public health and political scandal beside each other, then asks how changing rules about private life made both possible. Later events change the meaning of the beginning. Here, too, the beginning will look different by the end. A harmless-looking refrigerator will turn out to contain a theory of progress, a problem of property, and an argument about who deserves modern comfort.
+
+Start with the comfort. Before we can understand why anyone defended CFCs, we have to understand why people welcomed them.
+
+Early mechanical refrigerators could use refrigerants that were toxic, flammable, or both. A leak could be a household emergency. CFCs offered a less immediately dangerous alternative. Their usefulness extended beyond refrigerators to air conditioners, aerosol propellants, and other industrial applications.
+
+This mattered in a society learning to treat convenience as a reasonable expectation. The Smithsonian's exhibition, Refrigerators Equals Happiness, follows Americans from iceboxes toward electric refrigerators in the 1930s, then toward larger models and spacious freezers in the 1960s. Its objects include frozen orange juice, leftover dishes, and a toy refrigerator marketed to children. Cooling belonged to an entire picture of how a successful household should live.
+
+Those objects help explain demand. The refrigerator let a family store food between shopping trips. A freezer made different meals possible. An appliance promised the person responsible for household work some control over time. The toy refrigerator suggests how early those expectations could become familiar. Modern comfort was something children could practice wanting.
+
+Advertising did not have to invent every benefit. Food preservation and dependable cooling had real value. But commercial culture could turn an improvement into a standard, and a standard into an embarrassment for anyone who could not afford it. Once a service becomes ordinary, being asked to surrender it feels different from being asked to forgo a luxury.
+
+That distinction becomes crucial later. Environmental protection would struggle if it required people to give up refrigeration itself. It became more achievable when it targeted the chemical providing the service. People wanted cold food and cool rooms. They had no special emotional attachment to a particular refrigerant molecule.
+
+Still, the molecule had become embedded in machines, factories, repair skills, and supply contracts. Changing it involved more than replacing a label. A household could want a cleaner future and still worry about the cost of replacing an appliance it already owned.
+
+The market price reflected the labor and materials required to deliver cooling. It did not include the cost of future damage to a protective layer of the atmosphere. Nobody at the checkout counter could collect payment on behalf of every future person exposed to more ultraviolet radiation.
+
+For decades, the transaction looked complete when the refrigerator worked. The next part of the story began when researchers asked where the chemical went afterward.
+
+2. A molecule with no place to disappear
+
+In 1974, Mario Molina and F. Sherwood Rowland published a short paper in Nature proposing that CFCs could destroy stratospheric ozone. Molina was a postdoctoral researcher working with Rowland at the University of California, Irvine. Their question reached beyond the use for which the chemicals had been manufactured. What would eventually remove them from the atmosphere?
+
+Near the ground, CFCs resisted the reactions that break down many other substances. Given time, they could reach the stratosphere. There, energetic ultraviolet light could break them apart and release chlorine. Chlorine could participate in repeated reactions that destroyed ozone, the form of oxygen that absorbs much of the Sun's harmful ultraviolet radiation.
+
+The danger depended on location and time. The chemical could perform its intended job well and still cause damage later. Immediate safety and long-run safety were different claims. The original invention had solved a genuine problem without settling every problem it might create.
+
+This was an awkward warning to deliver. An ordinary buyer could examine a broken refrigerator. That buyer could not inspect a chlorine reaction miles overhead. The people benefiting from the product were identifiable. The people facing additional risk were dispersed across borders and generations.
+
+Imagine trying to solve that through individual bargaining. Whom would a future child negotiate with? Which producer should compensate which exposed person? How would a bargain cover people who never agreed to it? The difficulty was not that nobody valued the sky. It was that an atmosphere shared by billions did not come with a workable system of individual invoices and contracts.
+
+Nor did identifying a plausible mechanism immediately reveal its exact scale. Researchers had to separate chemical effects from natural variation and study reactions in a difficult environment. Uncertainty gave legitimate scientific questions and commercially convenient objections room to occupy the same argument.
+
+The date also matters. The warning arrived in 1974, after the oil shock had sharpened concerns about prices and shortages. Federal Reserve histories describe an economy already wrestling with inflation when the embargo added another disturbance. This does not prove that oil prices determined ozone policy. It helps explain why a promise to replace an industrial input could sound more threatening than it sounds in hindsight.
+
+Waiting had a cost as well. Long-lived chemicals could accumulate while a dispute continued. An irreversible release and a reversible business decision did not carry identical risks. Policymakers had to compare uncertain harm from acting with uncertain harm from delay.
+
+The first changes would come where consumers could imagine a substitute without imagining the collapse of modern life.
+
+An aerosol can made the atmospheric problem portable. A person could connect an everyday purchase to a distant danger, then buy something else. A pump spray did not require its user to solve international diplomacy before changing a habit.
+
+In June 1975, SC Johnson announced plans to eliminate CFC aerosol propellants. The Environmental Protection Agency's historical account describes consumer preference for ozone protection and the commercial availability of alternative propellants. In 1978, the United States restricted CFC propellants in most nonessential aerosol uses, with exceptions. The sequence matters: some consumers and businesses moved before the federal restriction.
+
+Consumer culture was doing two different things. Earlier, it had helped make chemical convenience ordinary. Now, purchasing could become a public statement about responsibility. A company could compete by making a product's environmental attributes visible. Environmental concern entered the same commercial world that had spread the original technology.
+
+This complicates a familiar opposition between markets and regulation. Customer demand could reward a company for changing before a rule compelled it. A rule could then prevent competitors from relying indefinitely on the older chemistry. Neither mechanism required every buyer to become an atmospheric scientist.
+
+But spray cans were a favorable beginning. A substitute that worked for an aerosol did not automatically work inside an air conditioner. The technical challenge, the equipment already installed, and the cost of failure differed by use.
+
+Suppose a government treated every application as equally easy to replace. It could impose high costs where substitutes were poor while failing to learn from sectors where change was already cheap. Suppose instead it treated the hardest application as a reason to postpone every change. It would leave inexpensive reductions unused. The sensible margin was the particular service and the available alternative.
+
+There was also a geographical limit. One country's shoppers could not stop every other country's production. A domestic restriction could improve behavior locally while leaving a growing international market elsewhere. The atmosphere would register the combined result, regardless of how virtuous any one checkout counter looked.
+
+The aerosol episode therefore did more than remove a use. It demonstrated that substitution was possible, but it also revealed the limits of voluntary purchasing and national rules. A consumer could choose a different spray. Nobody could choose a different planet.
+
+Then a set of measurements from a place almost nobody shopped made the danger much harder to dismiss.
+
+3. Antarctica changes the argument
+
+In May 1985, Joe Farman, Brian Gardiner, and Jonathan Shanklin of the British Antarctic Survey published evidence of severe springtime ozone losses over Antarctica. Their work relied on a long record of ground-based measurements at Halley. An instrument recording the sky over a remote research station had become evidence about an industrial civilization.
+
+The Antarctic ozone hole was a dramatic seasonal thinning, rather than an opening into empty space. The metaphor made the problem graspable. Images of an affected region could give a scattered chemical threat an apparent location. What had sounded like a theoretical argument now had a memorable shape.
+
+Yet the discovery did not simply confirm every detail scientists already expected. Researchers had to explain why the losses were so large and why they occurred there in spring. The surprise was scientifically useful precisely because the world had not behaved like a tidy classroom diagram.
+
+Susan Solomon and colleagues helped explain the role of reactions on polar stratospheric clouds. Field expeditions and aircraft measurements built the case connecting chlorine chemistry to ozone destruction. NASA's historical account describes the revealing relationship: where chlorine monoxide was high, ozone was low. Mechanism, observation, and geographical pattern increasingly pointed toward the same explanation.
+
+Notice what made this knowledge possible. Someone had kept measuring a remote environment before the measurements became the center of a political emergency. A long time series could distinguish a disturbing change from a single strange observation. The value of that scientific infrastructure was larger than the immediate value any one customer could buy.
+
+This was another shared benefit. Research agencies paid people to produce knowledge that manufacturers, governments, and citizens could all use. If everyone waited for someone else to finance the observations, everyone could remain less informed. Environmental protection depended partly on institutions that kept looking when the results were not yet news.
+
+The public image of a damaged sky also changed the stakes of reputational judgment. Continued resistance could become a threat to a business's standing. Governments could be criticized for postponing action against a danger that now seemed visible. Scientific evidence did not abolish interests. It changed the information and political conditions under which interests operated.
+
+The next complication was especially revealing. A producer of the chemicals could become an advocate for getting rid of them. That shift deserves closer examination than either celebration or cynicism usually allows.
+
+4. Who gets to own a refrigerator?
+
+In March 1988, DuPont called for a transition toward a total phaseout of fully halogenated CFC production. Contemporary reporting in Chemical and Engineering News connected the shift to new evidence about ozone depletion. The announcement came after the original Montreal agreement, which had been adopted in September 1987. The full-phaseout position was a further change in a policy process already underway.
+
+A business selling a chemical could reasonably fear losing its market. It could also foresee a market for replacements. Those possibilities can coexist. A company with research expertise and manufacturing capacity might become well placed to supply the next technology.
+
+That is an incentive mechanism, not proof that a particular executive had a secret motive. Evidence of a policy reversal tells us what the firm announced. Establishing the relative importance of scientific conviction, reputation, commercial opportunity, and expected regulation requires more evidence. An explanation gets weaker when it pretends to read minds.
+
+Still, the commercial logic matters. Consider a company deciding whether to spend heavily on alternatives. If governments might permit the old product indefinitely, the new investment is risky. If several major markets commit to a transition, the expected demand for alternatives rises. A policy can help create the market whose absence once made the policy look impractical.
+
+This relationship runs in both directions. Better substitutes reduce the cost of stricter rules. Stricter, credible rules improve the return to developing substitutes. Innovation and regulation can reinforce one another instead of arriving in a fixed sequence.
+
+There are reasons to remain critical. An incumbent may prefer a transition it can manage over one that allows unfamiliar competitors to enter. A regulatory agreement can protect health and still distribute commercial advantages unevenly. The existence of a public benefit does not guarantee that every detail of the policy serves the public equally well.
+
+But dismissing cooperation because a participant can profit misses an essential part of the achievement. A large environmental transition becomes easier when earning money can involve supplying the replacement rather than defending the damage. We should examine the quality and cost of that replacement, not demand that every useful participant first become indifferent to profit.
+
+The deeper obstacle remained outside any company's boardroom. A global rule had to attract countries with different incomes, different histories of consumption, and very different reasons to worry about paying for change.
+
+The original Montreal Protocol did not instantly prohibit every ozone-depleting chemical everywhere. It began with controls on selected substances and a schedule for reductions, including a roughly fifty percent CFC cut from the 1986 baseline by the end of the 1990s for countries subject to that schedule. Subsequent agreements strengthened the system. The policy we remember as a success was built through revision.
+
+An initial agreement could make a direction credible without requiring negotiators to settle every technical problem at once. Regular scientific and technical assessments created opportunities to tighten controls as knowledge and alternatives improved. A framework for learning had practical value.
+
+But whose learning, and at whose expense? A wealthy country with refrigerators in most kitchens could call restraint urgent. A poorer country could see the same demand as an instruction to stop approaching a standard of living the wealthy already enjoyed.
+
+That objection was not simply an excuse to pollute. An identical deadline can impose very different burdens when equipment, financing, and technical knowledge are unequal. It also matters who had accumulated the benefits of earlier production. A global environmental benefit does not make the distribution of transition costs automatically fair.
+
+The treaty gave eligible developing countries additional time. At the 1990 London meeting, parties agreed on a financial mechanism; the interim Multilateral Fund began operating in 1991. Its mandate included financing agreed incremental costs of compliance and supporting technical cooperation.
+
+Incremental is the important word. The question was what extra cost came from using the compliant technology rather than continuing along a baseline path. Buying every refrigerator a country might ever need would be a very different commitment. Funding the additional cost could make a specific environmental transition more affordable without pretending that development itself was optional.
+
+For a simplified illustration, imagine a factory choosing between continuing an existing process and converting to one that meets the new rules. Assistance toward the extra conversion cost could change its choice. This is an invented example to explain the mechanism, rather than a description of a particular funded factory. The environmental gain would come from what the assistance changed. If the factory would have converted at the same time anyway, the payment would mainly change who paid. That distinction helps explain why verification and baseline choices are central to the economics of environmental finance.
+
+This arrangement changed the bargain. Rich countries wanted participation because emissions abroad affected their own atmosphere. Assistance could purchase a shared benefit while also responding to a distributional claim. Calling the payment either pure charity or pure self-interest would conceal part of its purpose.
+
+There were administrative difficulties. Someone had to decide which expenses counted, verify projects, and prevent money from paying for changes that would have happened anyway. A funding mechanism cannot eliminate those problems by giving them a generous name.
+
+Even so, the central shift was substantial. Cooperation no longer required every country to absorb the same immediate burden before receiving any help. The agreement made some of the compensation needed for participation part of its machinery. It recognized that a request to protect the sky was also a negotiation over access to modern life.
+
+5. The advantage of joining, and the problem with replacements
+
+Money and extra time addressed part of the participation problem. Another part was the temptation to remain outside. If other countries paid to protect ozone, a nonparticipant could enjoy the atmospheric benefit anyway. It could also hope to serve markets abandoned by producers facing restrictions.
+
+The Montreal system included restrictions on trade with nonparties in controlled substances and specified products. The details varied across provisions and over time. It was not a general embargo on everything an outsider sold. The relevant point was that staying outside could carry a commercial cost, rather than providing only an escape from obligations.
+
+Economist Scott Barrett interprets this as a change in the structure of cooperation. Countries could gain by coordinating around the agreement once enough important trading partners participated. The incentive to join became stronger as membership became more commercially valuable.
+
+Think about the difference between two offers. One asks a country to pay for a benefit that everyone will receive. Another combines that public benefit with financing, access to a changing market, and a disadvantage from remaining outside it. The second offer does not require a sudden improvement in human nature. It gives existing interests a different set of choices.
+
+Barrett's argument helps explain a mechanism. It does not, by itself, measure how much each individual provision contributed to every government's historical decision. Scientific evidence, diplomatic leadership, public pressure, and technological feasibility still belong in the explanation. A useful model tells us what to look for; it does not make the archives unnecessary.
+
+The policy also had a practical advantage over asking every final user to calculate every release. Regulating production and trade could focus attention upstream, where chemicals entered commerce. That did not make enforcement effortless. It made the target more manageable than billions of separate moral decisions.
+
+We can now see why a signature alone was insufficient. A treaty needed attractive participation terms, feasible ways to comply, credible restrictions, and information that could reveal failure. Remove any one of those and the same declaration of concern might produce much less.
+
+At this point, the story seems ready for a triumphant ending. Science identifies the danger, manufacturers provide substitutes, and diplomacy changes the incentives. But the substitutes themselves reopen the question from the kitchen. Safer in which respect? Over what time horizon? And who gets to decide what counts as good enough?
+
+Some replacements, hydrofluorocarbons or HFCs, did not destroy stratospheric ozone. Many were nevertheless powerful greenhouse gases. Substituting away from one atmospheric danger could leave another. This does not erase the achievement of cutting CFCs. It means that passing one safety test cannot settle every environmental question.
+
+An unexpected actor entered the refrigerator business. Greenpeace worked with the German manufacturer Foron on hydrocarbon refrigeration. The first industrial GreenFreeze unit came off the assembly line in March 1993. Greenpeace's own retrospective describes mobilizing supporters to place advance orders. As an account by a campaign participant, it also has an interest in emphasizing the campaign's success.
+
+The important change was the campaign's method. Opposition became involvement in design and demand. A group associated with environmental protest helped show that a different appliance could attract buyers. Advance orders could reduce uncertainty about whether consumers would actually purchase what campaigners recommended.
+
+That is a commercial problem with a cultural solution. Public identification with environmental responsibility could help assemble a market before a producer committed to it at scale. An organization could use its credibility and supporters to make a new technological path look less risky.
+
+Hydrocarbons also bring flammability considerations. Their use calls for appropriate designs, quantities, and safety practices. The historical irony is striking: substances from a family once displaced partly because of immediate safety concerns could return in different engineered systems to address atmospheric risks. Progress did not consist of finding a chemical whose name meant harmless forever.
+
+The comparison has to be between complete systems. Refrigerant properties matter, but so do leaks, energy use, equipment design, maintenance, and disposal. Saving a small amount of refrigerant damage while greatly increasing electricity consumption could move a problem rather than solve it. The relevant alternative is a functioning appliance with its full set of consequences.
+
+In 2016, the Kigali Amendment brought HFC phasedowns into the Montreal framework. A system created around ozone protection was adapting to a climate consequence of the transition. Its ability to revise the definition of the problem became part of its value.
+
+Here is the important reversal. We began with a chemical made attractive by immediate safety. We now have an environmental agreement judged partly by its ability to reconsider the safety of replacement chemicals. The achievement was building a process capable of correcting its own earlier boundaries.
+
+6. Keeping the sky in the bargain
+
+Success still required checking what entered the air. A study published in 2018 found an unexpected increase in global CFC-11 emissions despite the production phaseout. Later research linked a substantial portion of the increase to eastern mainland China. Studies published in 2021 reported a renewed decline in global emissions and a decline in that region.
+
+The episode revealed both vulnerability and capacity. Rules on paper had not guaranteed the expected atmospheric result. Measurement networks could nevertheless detect a discrepancy and help locate it. The subsequent decline was encouraging, though its precise causes cannot be inferred from timing alone.
+
+The same principle had mattered at Halley decades earlier. Observation could make an invisible problem available for collective judgment. In the later episode, it helped keep a celebrated agreement accountable after the ceremonies had ended.
+
+Nor does reduced production mean that the atmosphere immediately returns to its earlier state. Long-lived chemicals persist, and equipment and foams can hold reservoirs that release them later. The 2022 international scientific assessment projected a return to 1980 total-ozone levels around 2040 for the near-global average, around 2045 for the Arctic, and around 2066 for Antarctica, assuming continued implementation. These are conditional projections, with regional differences and year-to-year variability, rather than dates on which the sky is guaranteed to be repaired.
+
+There is a lesson for climate policy, but it requires care. Cutting carbon dioxide reaches across energy, transport, industry, and land use. Replacing a limited set of industrial chemicals offers a different technological and political task. Montreal's success does not establish that the same trade provisions or deadlines would work unchanged for fossil fuels.
+
+What travels is a way of asking questions. Which service do people need to preserve? What alternatives could reduce harm? Which rule would make developing those alternatives worthwhile? Who must receive assistance for participation to become possible? How will anyone know if the promised change actually occurs?
+
+My judgment is that the ozone achievement depended on taking those practical questions seriously. Evidence established the reason to act. Institutions made action easier to coordinate. Public concern made delay more costly. Technological change preserved services people valued. None of these explanations is sufficient alone, and none becomes unimportant because another also matters.
+
+Return to Midgley's candle. The demonstration made a reasonable claim about an immediate danger. Its failure was allowing that claim to stand for a much larger promise of safety. The later bargain widened the circle of people and consequences that a successful technology had to consider.
+
+The refrigerator could remain in the kitchen. The sky had to enter the transaction. Keeping it there would require continuing to look up.
+
+END NARRATION
+
+
+LINKED READING LIST (OUTSIDE NARRATION)
+
+1. The invention and the warning
+National Inventors Hall of Fame: Thomas Midgley Jr.
+https://www.invent.org/inductees/thomas-midgley-jr
+American Chemical Society: CFCs and ozone depletion
+https://www.acs.org/education/whatischemistry/landmarks/cfcs-ozone.html
+Molina and Rowland, Nature (1974)
+https://doi.org/10.1038/249810a0
+The immediate safety benefits of CFCs and the original atmospheric hypothesis.
+
+2. The culture and economy surrounding the chemical
+Smithsonian: Refrigerators = Happiness
+https://www.americanhistory.si.edu/explore/exhibitions/object-project/online/refrigerators
+Federal Reserve History: Oil Shock of 1973-74
+https://www.federalreservehistory.org/essays/oil-shock-of-1973-74
+Appliances as household aspirations; inflation as context, rather than a demonstrated cause of ozone policy.
+
+3. The evidence over Antarctica
+British Antarctic Survey: the Halley instrument
+https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/halley/dobson-spectrophotometer/
+NASA: History of the Ozone Hole
+https://ozonewatch.gsfc.nasa.gov/facts/history_SH.html
+Long-term measurements, the 1985 discovery, polar cloud chemistry, and the field evidence.
+
+4. Consumers and producers change course
+EPA: Achievements in Stratospheric Ozone Protection (2007), especially pp. 14-16
+https://www.epa.gov/sites/default/files/2015-07/documents/achievements_in_stratospheric_ozone_protection.pdf
+Reisch and Zurer: Du Pont seeks total phaseout (1988)
+https://doi.org/10.1021/cen-v066n014.p004
+UPI: Du Pont announcement, March 24, 1988
+https://www.upi.com/Archives/1988/03/24/Du-Pont-to-end-production-of-CFCs/7910575182800/
+SC Johnson and the aerosol transition; contemporary reporting distinguishes the 1988 phaseout announcement from earlier support for controls.
+
+5. How the international bargain worked
+Ozone Secretariat: Montreal Protocol and articles
+https://ozone.unep.org/treaties/montreal-protocol/montreal-protocol-substances-deplete-ozone-layer
+NASA JPL: Ozone Milestones
+https://atmos.jpl.nasa.gov/milestones.htm
+1990 London decision establishing the interim financial mechanism
+https://ozone.unep.org/treaties/montreal-protocol/meetings/second-meeting-parties/decisions/decision-ii8-financial-mechanism
+Scott Barrett, PNAS (2016)
+https://doi.org/10.1073/pnas.1604989113
+Reduction schedules, differentiated obligations, incremental-cost finance, and the economic interpretation of trade incentives. The online treaty is consolidated; JPL records the initial 1987 schedule.
+
+6. The consequences of replacement
+Greenpeace: 25 years of GreenFreeze (participant retrospective)
+https://www.greenpeace.org/international/story/15323/how-greenpeace-changed-an-industry-25-years-of-greenfreeze-to-cool-the-planet/
+UNEP: Montreal, the Fund, and Kigali
+https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol
+The 1993 appliance initiative, HFCs, and the 2016 Kigali Amendment. Campaign claims are attributed rather than treated as independent evaluation.
+
+7. Why monitoring continues
+Montzka et al., Nature (2018)
+https://doi.org/10.1038/s41586-018-0106-2
+Rigby et al., Nature (2019)
+https://doi.org/10.1038/s41586-019-1193-4
+Montzka et al., Nature (2021), NOAA record and open manuscript
+https://repository.library.noaa.gov/view/noaa/45389
+Park et al., Nature (2021), MIT record
+https://cgcs.mit.edu/publications/decline-emissions-cfc-11-and-related-chemicals-eastern-china
+Unexpected CFC-11 emissions, regional attribution, and the subsequent decline. The lecture does not infer a unique enforcement cause from timing.
+
+8. What recovery means
+WMO/UNEP Scientific Assessment of Ozone Depletion 2022: Executive Summary
+https://csl.noaa.gov/assessments/ozone/2022/executivesummary/
+Conditional return to 1980 total-ozone levels, regional differences, long-lived reservoirs, and remaining uncertainty.
+
+Narrative reference: Arnold Kling: AIDS and the Blue Dress
+https://arnoldkling.substack.com/p/aids-and-a-blue-dress
